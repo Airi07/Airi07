@@ -94,13 +94,12 @@ Cross-platform enterprise mobile application designed to streamline business wor
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Airi07&theme=tokyo-night)
-
-<br>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Airi07&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
+
+* 🛠️ **Active Development:** Consistently pushing updates across AI/ML and Web Development projects.
+* 📦 **Repositories:** Full-stack Sentiment Analysis Engine & Computer Vision CNN Classifier.
 
 ---
 
