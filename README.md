@@ -54,7 +54,7 @@
 
 <br>
 
-An AI-powered web analytics portal designed to scrap, process, and evaluate Google Play app reviews using a fine-tuned BERT Transformer model, connected directly to a PHP-MySQL executive dashboard.
+An AI-powered web analytics portal designed to scrape, process, and evaluate Google Play app reviews using a fine-tuned BERT Transformer model, connected directly to a PHP-MySQL executive dashboard.
 
 * 🔗 **Repository:** [`Airi07/sentiment-analysis-system`](https://github.com/Airi07/sentiment-analysis-system)
 * 🛠️ **Tech Stack:** `Python`, `BERT`, `PyTorch`, `PHP`, `MySQL`, `JavaScript`
@@ -90,12 +90,15 @@ Cross-platform enterprise mobile application designed to streamline business wor
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity & Achievements
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Airi07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airi07&layout=compact&theme=tokyonight&hide=html,css" />
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Airi07&theme=tokyo-night)
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Airi07&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
