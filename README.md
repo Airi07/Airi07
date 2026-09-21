@@ -1,79 +1,117 @@
-# Hi, I'm Khuzairi 👋
+<div align="center">
 
-I'm a Computer Science graduate with practical experience in software development,
-IT support, web development, and ERP application development.
+# Hi there, I'm Khuzairi Mokhtar 👋
+### *Computer Science Graduate | Software Developer | AI & Enterprise Systems*
 
-I enjoy building practical software solutions and learning new technologies,
-particularly in software development, AI/ML, and enterprise systems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khuzairi_Mokhtar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khuzairi-mokhtar-74197824a)
+[![Email](https://img.shields.io/badge/Email-mokhtarkhuzairi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mokhtarkhuzairi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Airi07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Airi07)
 
-## 🛠️ Technologies & Tools
+---
 
-### Programming
-- Java
-- Python
-- PHP
-- JavaScript
-- Dart
-- C++
-- C
+</div>
 
-### Web & Mobile
-- HTML
-- CSS
-- JavaScript
-- Flutter
-- WordPress
-- Elementor
-- REST API
+## 📌 About Me
 
-### Database
-- MySQL
-- SQL
-- phpMyAdmin
+> I am a Computer Science graduate passionate about building practical software solutions. My expertise bridges **Machine Learning / Deep Learning (BERT, CNN)**, **Full-Stack Web Development (PHP, MySQL)**, and **Enterprise Mobile Apps (Flutter)**.
 
-### AI / Machine Learning
-- BERT
-- CNN
-- Google Colab
+* 🎓 **Background:** Computer Science Graduate
+* 💼 **Focus Areas:** AI/ML Applications, Web & Mobile Systems, Enterprise IT
+* ⚡ **Fun Fact:** I enjoy optimizing competitive strategies and designing modern UI/UX interfaces!
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Android Studio
-- NetBeans
-- Figma
-- Microsoft 365
+---
+
+## 🛠️ Tech Stack & Skill Matrix
+
+<div align="center">
+
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+### **AI / Machine Learning & Tools**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Gradio](https://img.shields.io/badge/Gradio-FF5500?style=flat-square&logo=gradio&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
+</div>
+
+---
 
 ## 🚀 Featured Projects
 
-### 🧠 Sentiment Analysis System
-AI-powered web application for analysing Google Play app reviews
-using a pretrained BERT model.
+<details open>
+<summary><b>🧠 1. Sentiment Analysis System (BERT + PHP/MySQL)</b></summary>
 
-**Technologies:** Python, BERT, PHP, MySQL, JavaScript, HTML, CSS
+<br>
 
-### 🐟 Fish Species Detection
-Web-based image classification application using a CNN model
-to identify fish species.
+An AI-powered web analytics portal designed to scrap, process, and evaluate Google Play app reviews using a fine-tuned BERT Transformer model, connected directly to a PHP-MySQL executive dashboard.
 
-**Technologies:** Python, CNN, Gradio
+* 🔗 **Repository:** [`Airi07/sentiment-analysis-system`](https://github.com/Airi07/sentiment-analysis-system)
+* 🛠️ **Tech Stack:** `Python`, `BERT`, `PyTorch`, `PHP`, `MySQL`, `JavaScript`
+* 💡 **Highlights:** Contextual sentiment scoring, relational database sync, interactive chart analytics.
 
-### 📱 ERP Mobile Application
-Mobile application development project using Flutter and Dart,
-based on enterprise resource planning workflows.
+</details>
 
-**Technologies:** Flutter, Dart
+<details open>
+<summary><b>🐟 2. Fish Species Detection System (CNN + Gradio)</b></summary>
 
-## 📚 Currently Learning
+<br>
 
-- Flutter & Dart
-- REST API integration
-- Software development practices
-- IT infrastructure and networking
-- ISO/IEC 27001
+An end-to-end Computer Vision system that classifies fish species in real-time using a custom Convolutional Neural Network (CNN) and an interactive Gradio web UI.
 
-## 📫 Contact
+* 🔗 **Repository:** [`Airi07/fish-detection-cnn`](https://github.com/Airi07/fish-detection-cnn)
+* ⚡ **Interactive Demo:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Airi07/fish-detection-cnn/blob/main/Phyton%20Coding/gui_csc583.ipynb)
+* 🛠️ **Tech Stack:** `Python`, `TensorFlow / Keras`, `Gradio`, `Google Colab`
+* 💡 **Highlights:** Automated weight download via Google Drive, drag-and-drop web UI, confidence scoring.
 
-- Email: mokhtarkhuzairi@gmail.com
-- LinkedIn: www.linkedin.com/in/khuzairi-mokhtar-74197824a
+</details>
+
+<details>
+<summary><b>📱 3. Enterprise Resource Planning (ERP) Mobile App <i>[In Development]</i></b></summary>
+
+<br>
+
+Cross-platform enterprise mobile application designed to streamline business workflows and resource tracking.
+
+* 🛠️ **Tech Stack:** `Flutter`, `Dart`, `REST API`
+* 💡 **Highlights:** Clean architecture, reactive UI, modular state management.
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Airi07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Airi07&layout=compact&theme=tokyonight&hide=html,css" />
+
+</div>
+
+---
+
+## 📚 Continuous Learning & Goals
+
+- 📱 Advanced **Flutter & Dart** application architecture
+- 🌐 Scalable **REST API** design & microservices
+- 🔐 **ISO/IEC 27001** Information Security Standards & IT Infrastructure
+
+---
+
+<div align="center">
+
+💬 *Open to discussions on AI/ML projects, web development, and tech opportunities!*  
+**[Send an Email](mailto:mokhtarkhuzairi@gmail.com)** • **[Connect on LinkedIn](https://www.linkedin.com/in/khuzairi-mokhtar-74197824a)**
+
+</div>
