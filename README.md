@@ -3,7 +3,7 @@
 # Hi there, I'm Khuzairi Mokhtar 👋
 ### *Computer Science Graduate | Software Developer | AI & Enterprise Systems*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khuzairi_Mokhtar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khuzairi-mokhtar-74197824a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khuzairi_Mokhtar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khuzairi-mohd-mokhtar-74197824a)
 [![Email](https://img.shields.io/badge/Email-mokhtarkhuzairi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mokhtarkhuzairi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Airi07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Airi07)
 
