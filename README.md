@@ -3,7 +3,7 @@
 # Hi there, I'm Khuzairi Mokhtar 👋
 ### *Computer Science Graduate | Software Developer | AI & Enterprise Systems*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khuzairi_Mokhtar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khuzairi-mohd-mokhtar-74197824a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khuzairi_Mokhtar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khuzairi-mokhtar-74197824a)
 [![Email](https://img.shields.io/badge/Email-mokhtarkhuzairi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mokhtarkhuzairi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Airi07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Airi07)
 
@@ -76,15 +76,24 @@ An end-to-end Computer Vision system that classifies fish species in real-time u
 
 </details>
 
-<details>
+<details open>
 <summary><b>📱 3. Enterprise Resource Planning (ERP) Mobile App <i>[In Development]</i></b></summary>
 
 <br>
 
-Cross-platform enterprise mobile application designed to streamline business workflows and resource tracking.
+A full-featured cross-platform enterprise mobile application engineered using Flutter & Dart. The app provides real-time attendance management, employee self-service portals, and operational module tracking.
 
-* 🛠️ **Tech Stack:** `Flutter`, `Dart`, `REST API`
-* 💡 **Highlights:** Clean architecture, reactive UI, modular state management.
+* 🛠️ **Tech Stack:** `Flutter`, `Dart`, `REST API`, `Mobile UI/UX Design`
+* 💡 **Key Features:** Geolocation-aware clock-in/out system, approval request workflows, procurement management, and dark-mode aesthetic.
+
+#### 📸 App Preview
+<div align="center">
+
+<img src="https://github.com/Airi07/Airi07/blob/main/Main%20Dashboard.jpg?raw=true" width="220" alt="ERP Main Dashboard" />
+<img src="https://github.com/Airi07/Airi07/blob/main/my%20work%20page.jpeg?raw=true" width="220" alt="ERP My Work Page" />
+<img src="https://github.com/Airi07/Airi07/blob/main/operation%20page.jpeg?raw=true" width="220" alt="ERP Operations Page" />
+
+</div>
 
 </details>
 
