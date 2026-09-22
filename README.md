@@ -94,6 +94,10 @@ Cross-platform enterprise mobile application designed to streamline business wor
 
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=Airi07&style=for-the-badge&color=blueviolet)
+
+<br>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Airi07&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
